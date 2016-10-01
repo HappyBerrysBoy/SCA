@@ -1,0 +1,22 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\bin\Release\SCA.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\bin\Release\SCA.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\obj\x86\Release\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\obj\x86\Release\SCA.Form1.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\obj\x86\Release\SCA.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\obj\x86\Release\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\obj\x86\Release\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\obj\x86\Release\SCA.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\obj\x86\Release\SCA.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SCA\SCA\obj\x86\Release\SCA.frmTotal.resources
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\obj\x86\Release\SCA.exe
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\obj\x86\Release\SCA.pdb
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\bin\Release\SCA.exe
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\bin\Release\SCA.pdb
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\obj\x86\Release\ResolveAssemblyReference.cache
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\obj\x86\Release\SCA.Form1.resources
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\obj\x86\Release\SCA.frmTotal.resources
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\obj\x86\Release\SCA.Properties.Resources.resources
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\obj\x86\Release\GenerateResource.read.1.tlog
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\KSC's Family\Desktop\SCA(성찬알바 프로그램)\SCA\obj\x86\Release\SCA.exe
+C:\Users\KSC's Family\Desktop\SCA(성찬알바 프로그램)\SCA\obj\x86\Release\SCA.pdb

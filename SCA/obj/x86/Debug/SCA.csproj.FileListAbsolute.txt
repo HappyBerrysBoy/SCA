@@ -1,0 +1,38 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\bin\Debug\SCA.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\bin\Debug\SCA.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\obj\x86\Debug\SCA.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\obj\x86\Debug\SCA.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\obj\x86\Debug\SCA.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\obj\x86\Debug\SCA.Form1.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\SCA\SCA\obj\x86\Debug\SCA.frmTotal.resources
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.exe
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.pdb
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\bin\Debug\SCA.exe
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\bin\Debug\SCA.pdb
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.Form1.resources
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.frmTotal.resources
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.Properties.Resources.resources
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\철이폴더\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KSC's Family\Desktop\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.exe
+C:\Users\KSC's Family\Desktop\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.pdb
+C:\Users\KSC's Family\Desktop\SCA(성찬알바 프로그램)\SCA\bin\Debug\SCA.exe
+C:\Users\KSC's Family\Desktop\SCA(성찬알바 프로그램)\SCA\bin\Debug\SCA.pdb
+C:\Users\KSC's Family\Desktop\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.csprojResolveAssemblyReference.cache
+C:\Users\KSC's Family\Desktop\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.Form1.resources
+C:\Users\KSC's Family\Desktop\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.frmTotal.resources
+C:\Users\KSC's Family\Desktop\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.Properties.Resources.resources
+C:\Users\KSC's Family\Desktop\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.csproj.GenerateResource.Cache
+D:\Windows8 Backup\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.exe
+D:\Windows8 Backup\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.pdb
+D:\Windows8 Backup\SCA(성찬알바 프로그램)\SCA\bin\Debug\SCA.exe
+D:\Windows8 Backup\SCA(성찬알바 프로그램)\SCA\bin\Debug\SCA.pdb
+D:\Windows8 Backup\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.csprojResolveAssemblyReference.cache
+D:\Windows8 Backup\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.Form1.resources
+D:\Windows8 Backup\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.frmTotal.resources
+D:\Windows8 Backup\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.Properties.Resources.resources
+D:\Windows8 Backup\SCA(성찬알바 프로그램)\SCA\obj\x86\Debug\SCA.csproj.GenerateResource.Cache
